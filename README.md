@@ -1,1 +1,1 @@
-# Acquaintance-with-the-Python-language-seminars
+Тут находятся домашние задания по курсу Знакомство с языком Python (семинары)
